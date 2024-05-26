@@ -65,7 +65,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="40" alt=" .Net logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/8448/8448634.png" height="40" alt=" .Net logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/8448/8448634.png" height="40" alt="UI/UX"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6229/6229280.png" height="40" alt="Smart contracts"  />
   <img width="12" />
 </div>
 
