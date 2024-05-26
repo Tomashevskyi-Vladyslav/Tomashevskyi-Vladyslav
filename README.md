@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left"><center>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="40" alt="java logo"  />
@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="40" alt=" .Net logo"  />
   <img width="12" />
-</center></div>
+</div>
 
 ###
 
