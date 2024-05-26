@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/784/183/png-transparent-shopify-logo-e-commerce-business-super-sale-angle-text-service-thumbnail.png" height="40" alt="shopify logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-shopify-226579.png?f=webp" height="40" alt="shopify logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
