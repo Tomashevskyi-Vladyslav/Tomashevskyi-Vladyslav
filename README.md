@@ -55,7 +55,7 @@ Developer focused on building high-load backend solutions. Specializing in:
 #### 🏆 Key Achievements  
 - Implemented microservice architecture for FinTech project reducing latency by 40%
 - Automated deployment processes cutting delivery time from 3 hours to 15 minutes
-- Developed high-load API handling 10K+ RPS using asynchronous patterns
+- Developed high-load API handling 10K+ RPM using asynchronous patterns
 - Optimized cloud infrastructure costs by 35% through resource planning
 
 #### 🌱 Currently Learning  
