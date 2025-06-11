@@ -66,10 +66,14 @@ Developer focused on building high-load backend solutions. Specializing in:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20API-FF6F00?logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-448AFF?logo=grpc&logoColor=white)
 
 
 
