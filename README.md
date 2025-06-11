@@ -28,29 +28,24 @@ Developer focused on building high-load backend solutions. Specializing in:
 #### 🔧 Technical Stack  
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| **Backend**    | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL                |
-| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                            |
-| **DevOps**     | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible            |
-| **Tools**      | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka    |
+| **Languages**  | Python, JavaScript/TypeScript, C#, SQL                                       |
+| **Frameworks** | FastAPI, Flask, CCXT, Backtrader, Brownie, React, .NET, Node.js, et al       |
+| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                             |
+| **DevOps**     | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible             |
+| **Tools**      | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka     |
+| **Other**      | REST/gRPC, testing (Unit/Integration/E2E)                                    |
 
 #### 🏆 Key Achievements  
-- Implemented microservice architecture for FinTech project reducing latency by 40%  
-- Automated deployment processes cutting delivery time from 3 hours to 15 minutes  
-- Developed high-load API handling 10K+ RPS using asynchronous patterns  
-- Optimized cloud infrastructure costs by 35% through resource planning  
+- Implemented microservice architecture for FinTech project reducing latency by 40%
+- Automated deployment processes cutting delivery time from 3 hours to 15 minutes
+- Developed high-load API handling 10K+ RPS using asynchronous patterns
+- Optimized cloud infrastructure costs by 35% through resource planning
 
 #### 🌱 Currently Learning  
 - Event-driven architecture with Apache Kafka  
 - Serverless computing (AWS Lambda)  
 - Monitoring with OpenTelemetry  
 - Caching systems (Redis Cluster)  
-
----
-
-📫 **Contact Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-tomashevskyi) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
 
 ---
 
