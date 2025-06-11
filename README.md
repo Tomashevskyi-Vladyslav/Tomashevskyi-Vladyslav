@@ -19,7 +19,7 @@
 
 #### 👨‍💻 Professional Profile  
 Developer focused on building high-load backend solutions. Specializing in:  
-- Developing RESTful APIs and microservices in Python (Django, FastAPI)  
+- Developing RESTful APIs and microservices in Python/JavaScript (Django, FastAPI / Express, NestJS)  
 - Optimizing system and database performance (PostgreSQL, MongoDB)  
 - Deploying and orchestrating containerized applications (Docker, Kubernetes)  
 - Implementing CI/CD pipelines (GitHub Actions, GitLab CI)  
@@ -60,9 +60,10 @@ Developer focused on building high-load backend solutions. Specializing in:
 <h3 align="left">🛠 Technologies:</h3>
 
 ###
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
 
 ###
 
