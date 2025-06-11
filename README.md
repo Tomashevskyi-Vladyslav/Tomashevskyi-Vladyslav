@@ -80,7 +80,7 @@ Developer focused on building high-load backend solutions. Specializing in:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tomashevskyi-Vladyslav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=Tomashevskyi-Vladyslav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
@@ -88,6 +88,6 @@ Developer focused on building high-load backend solutions. Specializing in:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tomashevskyi-Vladyslav&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomashevskyi-Vladyslav&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Tomashevskyi-Vladyslav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
 </div>
 
