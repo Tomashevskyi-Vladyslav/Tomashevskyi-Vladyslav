@@ -75,12 +75,6 @@ Developer focused on building high-load backend solutions. Specializing in:
 
 ###
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🔥 My statistics:</h3>
 
 ###
