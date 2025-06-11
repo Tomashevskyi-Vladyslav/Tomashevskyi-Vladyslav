@@ -62,7 +62,11 @@ Developer focused on building high-load backend solutions. Specializing in:
 - Event-driven architecture with Apache Kafka  
 - Serverless computing (AWS Lambda)  
 - Monitoring with OpenTelemetry  
-- Caching systems (Redis Cluster)  
+- Caching systems (Redis Cluster)
+
+###🎓 Education
+- MSc in Computer Science (2025)
+- National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 
 ---
 
