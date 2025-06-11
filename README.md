@@ -10,13 +10,6 @@
 
 ###
 
-
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)] 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)]
-
-###
-
 <h3 align="left">👩‍💻 About me:</h3>
 
 ### 👨‍💻 Vladyslav Tomashevskyi 
