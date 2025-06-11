@@ -57,6 +57,9 @@ Developer focused on building high-load backend solutions. Specializing in:
 - Automated deployment processes cutting delivery time from 3 hours to 15 minutes
 - Developed high-load API handling 10K+ RPM using asynchronous patterns
 - Optimized cloud infrastructure costs by 35% through resource planning
+- Achieved high results in developing a project that automates the search/receipt/purchase/sale of tokens
+- I have achieved success in developing websites that seriously automate business and the sale/purchase of what the business sells/buys
+- Successfully automated registration for lessons/sale of courses for training and so on for business
 
 #### 🌱 Currently Learning
 - Event-driven architecture with Apache Kafka
