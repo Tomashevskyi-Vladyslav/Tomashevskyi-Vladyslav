@@ -86,8 +86,8 @@ Developer focused on building high-load backend solutions. Specializing in:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomashevskyi-Vladyslav&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomashevskyi-Vladyslav&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tomashevskyi-Vladyslav&show_icons=true&theme=onedark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomashevskyi-Vladyslav&layout=compact&hide_border=true&theme=onedark" alt="Top Languages" />
   
 </div>
 
