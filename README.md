@@ -6,9 +6,11 @@
 
 ###
 
-<h1 align="center">Hello everyone👋 My name is Vladyslav!</h1>
+<h1 align="center">Hello everyone👋</h1>
 
 ###
+
+
 
 <div align="center">
   <a href="https://twitter.com/intent/follow?screen_name=TomasevskijVlad" target="_blank">
@@ -18,9 +20,33 @@
 
 <h3 align="left">👩‍💻 About me:</h3>
 
-###
+### 👨‍💻 Vladyslav Tomashevskyi 
+**Full Stack Developer** | JavaScript • TypeScript • React • Node.js • Python  
 
-<p align="left">Hello everyone, I am an experienced front-end - back-end developer who has several years of experience working as a freelancer in the field of creating online stores and other sites using various frameworks from React to Python Django, and countless other frameworks. I am also interested in creating software distribution, and to date, I have successfully closed more than 15 projects in this area. I have created products such as Bots for various social networks and written applications for phones using .NET, among other things. My journey in IT began five years ago as a freelancer who took on every project and tried to complete it. I started out designing logos and creating very lightweight websites, as well as solving compatibility issues for client products. Over the five years of freelancing, I have completed a lot of projects of varying complexity. During my time working in the IT field, I took a huge number of professional training courses and also read a huge amount of narrowly focused literature, which allowed me to perform my work at a high level. I would like to add that I am a student at the Kyiv Polytechnic Institute and in a year I will receive a master’s degree in Computer Science.<br> <br>-👨🏻‍💻Freelance programmer.</br> <br>-🛠️I specialize in software development and website creation.</br> <br>-✅At the moment, I have more than 54 successfully closed orders on freelance platforms of varying complexity and specifications.</br></br></p>
+🚀 **Professional Focus**  
+Building scalable web applications with 3+ years of experience across fintech and e-commerce domains. Currently enhancing blockchain-powered solutions at D_Market. Passionate about clean architecture and performance optimization.
+
+🛠️ **Core Tech Stack**  
+- **Frontend:** React, TypeScript, Redux, Tailwind CSS  
+- **Backend:** Node.js (Express/NestJS), Python (Django/Flask)  
+- **Infrastructure:** AWS, Docker, PostgreSQL, MongoDB, Redis  
+- **Blockchain:** Web3.js, Solidity  
+
+📊 **Key Highlights**  
+- Delivered 50+ projects as freelance full-stack developer  
+- Built microservices for Lendbox's loan management system  
+- Developed automated trading modules at D_Market  
+- Contributed to high-traffic applications serving 1M+ users  
+
+🎓 **Education**  
+MSc in Computer Science (2025)  
+National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"  
+
+📫 **Connect**  
+[LinkedIn](https://www.linkedin.com/in/vladyslav-tomashevskyi) | vlad.tomashevskyi@gmail.com
+
+
+
 
 ###
 
