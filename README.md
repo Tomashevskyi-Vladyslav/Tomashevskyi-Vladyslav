@@ -11,9 +11,9 @@
 
 
 
-### Vladyslav Tomashevskyi 
+### 🚀 Vladyslav Tomashevskyi
 
-**Backend Developer | Python/JS & Cloud Solutions Architect**  
+**Backend Developer | Python/JS & Cloud Solutions Architect**
 
 ---
 
@@ -34,15 +34,15 @@
 
 ---
 
-#### 👨‍💻 Professional Profile  
-Developer focused on building high-load backend solutions. Specializing in:  
-- Developing RESTful APIs and microservices in Python/JavaScript (Django, FastAPI / Express, NestJS)  
-- Optimizing system and database performance (PostgreSQL, MongoDB)  
-- Deploying and orchestrating containerized applications (Docker, Kubernetes)  
-- Implementing CI/CD pipelines (GitHub Actions, GitLab CI)  
-- Working with cloud platforms AWS and GCP  
+#### 👨‍💻 Professional Profile
+Developer focused on building high-load backend solutions. Specializing in:
+- Developing RESTful APIs and microservices in Python/JavaScript (Django, FastAPI / Express, NestJS)
+- Optimizing system and database performance (PostgreSQL, MongoDB)
+- Deploying and orchestrating containerized applications (Docker, Kubernetes)
+- Implementing CI/CD pipelines (GitHub Actions, GitLab CI)
+- Working with cloud platforms AWS and GCP
 
-#### 🔧 Technical Stack  
+#### 🔧 Technical Stack
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
 | **Languages**  | Python, JavaScript/TypeScript, C#, SQL                                       |
@@ -52,16 +52,16 @@ Developer focused on building high-load backend solutions. Specializing in:
 | **Tools**      | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka     |
 | **Other**      | REST/gRPC, testing (Unit/Integration/E2E)                                    |
 
-#### 🏆 Key Achievements  
+#### 🏆 Key Achievements
 - Implemented microservice architecture for FinTech project reducing latency by 40%
 - Automated deployment processes cutting delivery time from 3 hours to 15 minutes
 - Developed high-load API handling 10K+ RPM using asynchronous patterns
 - Optimized cloud infrastructure costs by 35% through resource planning
 
-#### 🌱 Currently Learning  
-- Event-driven architecture with Apache Kafka  
-- Serverless computing (AWS Lambda)  
-- Monitoring with OpenTelemetry  
+#### 🌱 Currently Learning
+- Event-driven architecture with Apache Kafka
+- Serverless computing (AWS Lambda)
+- Monitoring with OpenTelemetry
 - Caching systems (Redis Cluster)
 
 ### 🎓 Education
