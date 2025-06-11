@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hello everyone👋</h1>
-
+---
 ###
 
 <h3 align="left">👩‍💻 About me:</h3>
@@ -38,7 +38,7 @@ National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institu
 [LinkedIn](https://www.linkedin.com/in/vladyslav-tomashevskyi) | vlad.tomashevskyi@gmail.com
 
 
-
+---
 
 ###
 
