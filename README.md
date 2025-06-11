@@ -13,50 +13,96 @@
 
 
 
-###
+<p align="center">
+  <a href="#english"><img src="https://img.shields.io/badge/English-005BBB?style=flat&logo=google-translate&logoColor=white" alt="English"></a>
+  <a href="#ukrainian"><img src="https://img.shields.io/badge/Українська-FFD500?style=flat&logo=google-translate&logoColor=black" alt="Українська"></a>
+</p>
 
+<a id="english"></a>
 ### 🚀 Vladyslav Tomashevskyi  
 **Backend Developer | Python & Cloud Solutions Architect**  
 `Python` `Django` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
 
 ---
 
-#### 👨‍💻 Профессиональный профиль  
-Разработчик с фокусом на создание высоконагруженных backend-решений. Специализируюсь на:  
-- Разработке RESTful API и микросервисов на Python (Django, FastAPI)  
-- Оптимизации производительности систем и баз данных (PostgreSQL, MongoDB)  
-- Деплое и оркестрации контейнеризированных приложений (Docker, Kubernetes)  
-- Реализации CI/CD-пайплайнов (GitHub Actions, GitLab CI)  
-- Работе с облачными платформами AWS и GCP  
+#### 👨‍💻 Professional Profile  
+Developer focused on building high-load backend solutions. Specializing in:  
+- Developing RESTful APIs and microservices in Python (Django, FastAPI)  
+- Optimizing system and database performance (PostgreSQL, MongoDB)  
+- Deploying and orchestrating containerized applications (Docker, Kubernetes)  
+- Implementing CI/CD pipelines (GitHub Actions, GitLab CI)  
+- Working with cloud platforms AWS and GCP  
 
-#### 🔧 Технический стек  
-| Категория       | Технологии                                                                 |
-|-----------------|----------------------------------------------------------------------------|
-| **Backend**     | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL              |
-| **Базы данных** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                          |
-| **DevOps**      | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible           |
-| **Инструменты** | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka  |
+#### 🔧 Technical Stack  
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Backend**    | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL                |
+| **Databases**  | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                            |
+| **DevOps**     | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible            |
+| **Tools**      | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka    |
 
-#### 🏆 Ключевые достижения  
-- Реализовал микросервисную архитектуру для FinTech-проекта, сократив latency на 40%  
-- Автоматизировал процессы деплоя, уменьшив время delivery с 3 часов до 15 минут  
-- Разработал highload API для обработки 10K+ RPS с использованием асинхронных паттернов  
-- Оптимизировал затраты на облачную инфраструктуру на 35% через ресурсное планирование  
+#### 🏆 Key Achievements  
+- Implemented microservice architecture for FinTech project reducing latency by 40%  
+- Automated deployment processes cutting delivery time from 3 hours to 15 minutes  
+- Developed high-load API handling 10K+ RPS using asynchronous patterns  
+- Optimized cloud infrastructure costs by 35% through resource planning  
 
-#### 🌱 Активно осваиваю  
-- Event-driven архитектура с Apache Kafka  
-- Serverless-вычисления (AWS Lambda)  
-- Мониторинг на основе OpenTelemetry  
-- Системы кэширования (Redis Cluster)  
+#### 🌱 Currently Learning  
+- Event-driven architecture with Apache Kafka  
+- Serverless computing (AWS Lambda)  
+- Monitoring with OpenTelemetry  
+- Caching systems (Redis Cluster)  
 
 ---
 
-📫 **Контакты для сотрудничества**:  
+📫 **Contact Me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-tomashevskyi) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+
+---
+
+<a id="ukrainian"></a>
+### 🚀 Владислав Томашевський  
+**Backend-розробник | Архітектор Python та Cloud рішень**  
+`Python` `Django` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
+
+---
+
+#### 👨‍💻 Професійний профіль  
+Розробник з фокусом на створення високонавантажених backend-рішень. Спеціалізуюсь на:  
+- Розробці RESTful API та мікросервісів на Python (Django, FastAPI)  
+- Оптимізації продуктивності систем та баз даних (PostgreSQL, MongoDB)  
+- Деплої та оркестрації контейнеризованих додатків (Docker, Kubernetes)  
+- Впровадженні CI/CD пайплайнів (GitHub Actions, GitLab CI)  
+- Роботі з хмарними платформами AWS та GCP  
+
+#### 🔧 Технічний стек  
+| Категорія      | Технології                                                                 |
+|----------------|----------------------------------------------------------------------------|
+| **Backend**    | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL              |
+| **Бази даних** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                          |
+| **DevOps**     | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible           |
+| **Інструменти**| Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka  |
+
+#### 🏆 Ключові досягнення  
+- Впровадив мікросервісну архітектуру для фінансового проекту, зменшивши затримки на 40%  
+- Автоматизував процеси деплою, зменшивши час доставки з 3 годин до 15 хвилин  
+- Розробив високонавантажений API для обробки понад 10К запитів за секунду  
+- Оптимізував витрати на хмарну інфраструктуру на 35% через планування ресурсів  
+
+#### 🌱 Активно вивчаю  
+- Подієво-орієнтовану архітектуру з використанням Apache Kafka  
+- Serverless-обчислення (AWS Lambda)  
+- Моніторинг на основі OpenTelemetry  
+- Системи кешування (Redis Cluster)  
+
+---
+
+📫 **Контакти для співпраці**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-tomashevskyi) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш_email@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ваш_username)
-###
-
 
 
 
