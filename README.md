@@ -64,7 +64,7 @@ Developer focused on building high-load backend solutions. Specializing in:
 - Monitoring with OpenTelemetry  
 - Caching systems (Redis Cluster)
 
-###🎓 Education
+### 🎓 Education
 - MSc in Computer Science (2025)
 - National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 
