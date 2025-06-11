@@ -12,6 +12,9 @@
 
 
 ### Vladyslav Tomashevskyi 
+
+---
+
 **Backend Developer | Python/JS & Cloud Solutions Architect**  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
