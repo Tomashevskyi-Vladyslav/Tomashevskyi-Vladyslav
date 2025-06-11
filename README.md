@@ -12,11 +12,10 @@
 
 
 
-<div align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=TomasevskijVlad" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/TomasevskijVlad" height="25" alt="X logo"  />
-  </a>
-</div>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)] 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)]
+
+###
 
 <h3 align="left">👩‍💻 About me:</h3>
 
