@@ -80,7 +80,7 @@ Developer focused on building high-load backend solutions. Specializing in:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tomashevskyi-Vladyslav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Tomashevskyi-Vladyslav&theme=onedark&hide_border=False" alt="GitHub Streak" />
 </div>
 
 ###
