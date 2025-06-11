@@ -10,8 +10,6 @@
 
 ###
 
----
-
 <h3 align="left">👩‍💻 About me:</h3>
 
 ### 👨‍💻 Vladyslav Tomashevskyi 
@@ -38,9 +36,6 @@ National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institu
 
 📫 **Connect**  
 [LinkedIn](https://www.linkedin.com/in/vladyslav-tomashevskyi) | vlad.tomashevskyi@gmail.com
-
-
----
 
 ###
 
