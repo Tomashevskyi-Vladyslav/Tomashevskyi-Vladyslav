@@ -54,52 +54,7 @@ Developer focused on building high-load backend solutions. Specializing in:
 
 ---
 
-<a id="ukrainian"></a>
-### 🚀 Владислав Томашевський  
-**Backend-розробник | Архітектор Python та Cloud рішень**  
-`Python` `Django` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
-
----
-
-#### 👨‍💻 Професійний профіль  
-Розробник з фокусом на створення високонавантажених backend-рішень. Спеціалізуюсь на:  
-- Розробці RESTful API та мікросервісів на Python (Django, FastAPI)  
-- Оптимізації продуктивності систем та баз даних (PostgreSQL, MongoDB)  
-- Деплої та оркестрації контейнеризованих додатків (Docker, Kubernetes)  
-- Впровадженні CI/CD пайплайнів (GitHub Actions, GitLab CI)  
-- Роботі з хмарними платформами AWS та GCP  
-
-#### 🔧 Технічний стек  
-| Категорія      | Технології                                                                 |
-|----------------|----------------------------------------------------------------------------|
-| **Backend**    | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL              |
-| **Бази даних** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                          |
-| **DevOps**     | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible           |
-| **Інструменти**| Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka  |
-
-#### 🏆 Ключові досягнення  
-- Впровадив мікросервісну архітектуру для фінансового проекту, зменшивши затримки на 40%  
-- Автоматизував процеси деплою, зменшивши час доставки з 3 годин до 15 хвилин  
-- Розробив високонавантажений API для обробки понад 10К запитів за секунду  
-- Оптимізував витрати на хмарну інфраструктуру на 35% через планування ресурсів  
-
-#### 🌱 Активно вивчаю  
-- Подієво-орієнтовану архітектуру з використанням Apache Kafka  
-- Serverless-обчислення (AWS Lambda)  
-- Моніторинг на основі OpenTelemetry  
-- Системи кешування (Redis Cluster)  
-
----
-
-📫 **Контакти для співпраці**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-tomashevskyi) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш_email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ваш_username)
-
-
-
-
-
+###
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
