@@ -13,7 +13,20 @@
 
 ### Vladyslav Tomashevskyi 
 **Backend Developer | Python/JS & Cloud Solutions Architect**  
-`Python` `JavaScript` `Django/React` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD` `...`
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20API-FF6F00?logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-448AFF?logo=grpc&logoColor=white)
 
 ---
 
@@ -54,29 +67,6 @@ Developer focused on building high-load backend solutions. Specializing in:
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-###
-
-<h3 align="left">🛠 Technologies:</h3>
-
-###
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
-![REST](https://img.shields.io/badge/-REST%20API-FF6F00?logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-448AFF?logo=grpc&logoColor=white)
-
-
-
 
 ###
 
