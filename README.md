@@ -8,36 +8,60 @@
 
 <h1 align="center">Hello everyone👋</h1>
 
-###
 
-<h3 align="left">👩‍💻 About me:</h3>
 
-### 👨‍💻 Vladyslav Tomashevskyi 
-**Full Stack Developer** | JavaScript • TypeScript • React • Node.js • Python  
 
-🚀 **Professional Focus**  
-Building scalable web applications with 3+ years of experience across fintech and e-commerce domains. Currently enhancing blockchain-powered solutions at D_Market. Passionate about clean architecture and performance optimization.
 
-🛠️ **Core Tech Stack**  
-- **Frontend:** React, TypeScript, Redux, Tailwind CSS  
-- **Backend:** Node.js (Express/NestJS), Python (Django/Flask)  
-- **Infrastructure:** AWS, Docker, PostgreSQL, MongoDB, Redis  
-- **Blockchain:** Web3.js, Solidity  
-
-📊 **Key Highlights**  
-- Delivered 50+ projects as freelance full-stack developer  
-- Built microservices for Lendbox's loan management system  
-- Developed automated trading modules at D_Market  
-- Contributed to high-traffic applications serving 1M+ users  
-
-🎓 **Education**  
-MSc in Computer Science (2025)  
-National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"  
-
-📫 **Connect**  
-[LinkedIn](https://www.linkedin.com/in/vladyslav-tomashevskyi) | vlad.tomashevskyi@gmail.com
 
 ###
+
+### 🚀 Vladyslav Tomashevskyi  
+**Backend Developer | Python & Cloud Solutions Architect**  
+`Python` `Django` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
+
+---
+
+#### 👨‍💻 Профессиональный профиль  
+Разработчик с фокусом на создание высоконагруженных backend-решений. Специализируюсь на:  
+- Разработке RESTful API и микросервисов на Python (Django, FastAPI)  
+- Оптимизации производительности систем и баз данных (PostgreSQL, MongoDB)  
+- Деплое и оркестрации контейнеризированных приложений (Docker, Kubernetes)  
+- Реализации CI/CD-пайплайнов (GitHub Actions, GitLab CI)  
+- Работе с облачными платформами AWS и GCP  
+
+#### 🔧 Технический стек  
+| Категория       | Технологии                                                                 |
+|-----------------|----------------------------------------------------------------------------|
+| **Backend**     | Python, Django, FastAPI, Flask, Celery, RESTful API, GraphQL              |
+| **Базы данных** | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch                          |
+| **DevOps**      | Docker, Kubernetes, AWS (EC2/S3/Lambda), GCP, Terraform, Ansible           |
+| **Инструменты** | Git, GitHub Actions, Jenkins, Prometheus/Grafana, Sentry, RabbitMQ/Kafka  |
+
+#### 🏆 Ключевые достижения  
+- Реализовал микросервисную архитектуру для FinTech-проекта, сократив latency на 40%  
+- Автоматизировал процессы деплоя, уменьшив время delivery с 3 часов до 15 минут  
+- Разработал highload API для обработки 10K+ RPS с использованием асинхронных паттернов  
+- Оптимизировал затраты на облачную инфраструктуру на 35% через ресурсное планирование  
+
+#### 🌱 Активно осваиваю  
+- Event-driven архитектура с Apache Kafka  
+- Serverless-вычисления (AWS Lambda)  
+- Мониторинг на основе OpenTelemetry  
+- Системы кэширования (Redis Cluster)  
+
+---
+
+📫 **Контакты для сотрудничества**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladyslav-tomashevskyi) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш_email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ваш_username)
+###
+
+
+
+
+
+
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
