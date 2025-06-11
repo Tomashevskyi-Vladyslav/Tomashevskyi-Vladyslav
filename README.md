@@ -11,17 +11,9 @@
 
 
 
-
-
-<p align="center">
-  <a href="#english"><img src="https://img.shields.io/badge/English-005BBB?style=flat&logo=google-translate&logoColor=white" alt="English"></a>
-  <a href="#ukrainian"><img src="https://img.shields.io/badge/Українська-FFD500?style=flat&logo=google-translate&logoColor=black" alt="Українська"></a>
-</p>
-
-<a id="english"></a>
-### 🚀 Vladyslav Tomashevskyi  
-**Backend Developer | Python & Cloud Solutions Architect**  
-`Python` `Django` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD`
+### Vladyslav Tomashevskyi 
+**Backend Developer | Python/JS & Cloud Solutions Architect**  
+`Python` `JavaScript` `Django/React` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes` `CI/CD` `...`
 
 ---
 
